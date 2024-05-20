@@ -13,7 +13,7 @@ Es necesario tener las bibliotecas instaladas, por ello se proporciona un requir
 Para ejecutar la aplicación, sigue estos pasos:
 
 1. Abre una terminal.
-2. Navega hasta el directorio donde se encuentra el archivo `appv2.py` y `app.py` (correspondientes a la versión 1 y 2), así dónde tengas el scaler.pkl yv el model.pkl .
+2. Navega hasta el directorio donde se encuentra el archivo `appv2.py` y `app.py` (correspondientes a la versión 1 y 2), así dónde tengas el scaler.pkl y el model.pkl .
 3. Ejecuta el siguiente comando:
    - `streamlit run ./appv2.py`
    - `streamlit run ./app.py`
